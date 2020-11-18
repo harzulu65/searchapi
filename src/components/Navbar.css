@@ -1,0 +1,8 @@
+.link {
+  color: blueviolet;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: yellow;
+}
